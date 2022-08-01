@@ -12,3 +12,4 @@ As developers, we spend the majority of our day in front of a computer screen wr
 | Fira Code | Free  | [Download](https://github.com/tonsky/FiraCode) |
 | Cascadia Code | Free  | [Download](https://github.com/microsoft/cascadia-code) |
 | Source Code Pro | Free  | [Download](https://github.com/adobe-fonts/source-code-pro) |
+| Hack | Free  | [Download](https://github.com/source-foundry/Hack.git) |
